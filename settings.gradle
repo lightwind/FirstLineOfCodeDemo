@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "FirstLineOfCodeDemo"
-include ':ch01'
+include ':ch03'
