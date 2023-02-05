@@ -34,3 +34,17 @@ fun main() {
     }
     println(result3)
 }
+
+class Util {
+    fun doAction1() {
+        println("do action1")
+    }
+
+    companion object {
+        // 静态方法：注解
+        @JvmStatic
+        fun doAction2() {
+            println("do action2")
+        }
+    }
+}
