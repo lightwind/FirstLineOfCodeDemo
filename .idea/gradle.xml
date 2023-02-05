@@ -13,6 +13,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ch03" />
+            <option value="$PROJECT_DIR$/ch04" />
           </set>
         </option>
       </GradleProjectSettings>
