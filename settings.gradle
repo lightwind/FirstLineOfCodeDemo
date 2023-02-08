@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "FirstLineOfCodeDemo"
 include ':ch03'
 include ':ch04'
+include ':ch06'
